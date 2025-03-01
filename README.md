@@ -6,4 +6,7 @@ This is a simple Streamlit-based web application that uses LangChain and OpenAI 
 
 **Technology Used** 
 
+Langchain: 0.3.19
+Streamlit 
+OpenAi
 
